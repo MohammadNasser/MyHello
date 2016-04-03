@@ -7,4 +7,7 @@ public class test {
 
     public String name;
 
+    public test(String name) {
+        this.name = name;
+    }
 }
